@@ -1,0 +1,30 @@
+{
+  "path": "lessons",
+  "name": "lessons",
+  "type": "folder",
+  "children": [
+    {
+      "path": "lessons/lesson_1.txt",
+      "name": "lesson_1.txt",
+      "type": "txt_file"
+    },
+    {
+      "path": "lessons/lesson_2.txt",
+      "name": "lesson_2.txt",
+      "type": "txt_file"
+    },
+    {
+      "path": "lessons/new_folder",
+      "name": "new_folder",
+      "type": "folder",
+      "children": [
+        {
+          "path": "lessons/new_folder/lesson_3.txt",
+          "name": "lesson_3.txt",
+          "type": "txt_file"
+        }
+      ]
+    },
+    {}
+  ]
+}
